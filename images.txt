@@ -1,1 +1,1 @@
-redis:latest
+neo4j:4.0.0
